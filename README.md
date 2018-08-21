@@ -1,2 +1,2 @@
 # testgithub
-thia is teating propus
+thia is testing propus
